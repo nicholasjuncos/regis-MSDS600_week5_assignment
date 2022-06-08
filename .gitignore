@@ -1,0 +1,6 @@
+.DS_Store
+LDA.pkl
+LDA_model.pk
+Week_5_FTE.ipynb
+logs.log
+predict_diabetes.py
